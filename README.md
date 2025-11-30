@@ -93,8 +93,8 @@ test/
 ```
 ### ENDPOINTS
 ```bash
-    | Méthode | Route      | Description                  |
-| ------- | ---------- | ---------------------------- |
+| Méthode | Route      | Description                  |
+|:-------:|:----------:|------------------------------|
 | GET     | /tasks     | Récupérer toutes les tâches  |
 | GET     | /tasks/:id | Récupérer une tâche précise  |
 | POST    | /tasks     | Créer une nouvelle tâche     |
