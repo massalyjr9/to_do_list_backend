@@ -92,7 +92,6 @@ test/
 
 ```
 ### ENDPOINTS
-```bash
 | Méthode | Route      | Description                  |
 |:-------:|:----------:|------------------------------|
 | GET     | /tasks     | Récupérer toutes les tâches  |
@@ -101,7 +100,6 @@ test/
 | PUT     | /tasks/:id | Modifier une tâche existante |
 | DELETE  | /tasks/:id | Supprimer une tâche          |
 
-```
 ### Exemple de playload pour la création d'une tache
 ```bash 
     {
